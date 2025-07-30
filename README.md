@@ -1,4 +1,4 @@
-# Repositório para códigos exemplos de OCI
+# Repositório de códigos exemplos de OCI via SDK Python 🐍
 
 Todos os códigos tem autenticação via arquivo de configuração, para configurar o seu siga os passos em: https://docs.oracle.com/en-us/iaas/Content/API/Concepts/sdkconfig.htm#SDK_and_CLI_Configuration_File. É necessário que tenha uma conta OCI ativa, seja de trial com o link abaixo ou uma conta regular. 
 
