@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaauuwos46nggtfrwkxdusct5rj64ba55psymxw72io62t6tn7ujiya
+fingerprint=6e:89:4f:d8:94:23:8b:c7:22:29:d3:d9:0a:38:87:31
+tenancy=ocid1.tenancy.oc1..aaaaaaaakzuzfystmhyj7je5x7ymwd3ofd7wb6rtsfrx7nvbo272vta3rwna
+region=sa-saopaulo-1
+key_file=C:\Users\Amanda Machado\Downloads\amanda.machado@oracle.com-2025-08-27T17_23_05.991Z.pem
