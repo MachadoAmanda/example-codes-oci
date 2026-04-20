@@ -1,0 +1,1 @@
+Obrigatorios: seguranca, auditoria, integracao, SLA e plano por fases.
